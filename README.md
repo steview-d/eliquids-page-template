@@ -4,31 +4,12 @@ For use inside [E-liquids](https://e-liquids.com/) page descriptions
 
 ## Usage instructions
 
-### Set Up
-
-For these blocks to work, all html must be inside of the `custom-html` block. To get this, click the `Copy Wrapper` button at the top of the page to add it to your clipboard.
-
-Paste this into the `Content` section of the page in the Shopify admin. It should look like this
-
-```
-<div class="custom-html">
-    <div class="content-wrapper">
-
-        [REPLACE THIS WITH ANY HTML SNIPPETSS YOU REQUIRE]
-
-    </div>
-</div>
-```
-
 ### Adding Content
 
 Find the layout block you require and click `Copy Code` - this will paste the required HTML to your clipboard.
 
-For example, if you want a 60% text and 40% image block, click the `Copy Code` button for that block, and paste it inside the `content-wrapper` element, replacing the text that says
+For example, if you want a 60% text and 40% image block, click the `Copy Code` button for that block, and paste it into the content section of the Shopify page editor.
 
-```
-[REPLACE THIS WITH ANY HTML SNIPPETSS YOU REQUIRE]
-```
 
 The html you paste in will look similar to this
 

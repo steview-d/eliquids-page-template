@@ -4,3 +4,4 @@ $( document ).ready(function() {
         navigator.clipboard.writeText(foo);
     })
 });
+

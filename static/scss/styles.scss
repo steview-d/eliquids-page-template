@@ -205,7 +205,7 @@ $black: #000000;
   padding: 5px 10px;
   font-size: 14px;
   line-height: 14px;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
 }
 
 .copy {
@@ -215,7 +215,18 @@ $black: #000000;
     padding: 5px 10px;
     font-size: 14px;
     line-height: 14px;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
     margin-left: 20px;
     cursor: pointer;
+}
+
+.instructions {
+  display: inline-block;
+  color: #21af38;
+  border: 1px solid #31dd4e;
+  padding: 5px 10px;
+  font-size: 14px;
+  line-height: 14px;
+  margin-bottom: 30px;
+  cursor: pointer;
 }
