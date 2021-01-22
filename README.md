@@ -4,6 +4,10 @@ For use inside [E-liquids](https://e-liquids.com/) page descriptions
 
 ## Usage instructions
 
+### Setting Up
+
+When creating a new page on Shopify, make sure you set the template to `page.custom-html`
+
 ### Adding Content
 
 Find the layout block you require and click `Copy Code` - this will paste the required HTML to your clipboard.
