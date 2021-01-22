@@ -42,9 +42,9 @@ Add alt tags by adding text to the alt attribute, for example `alt="my alt tag"`
 
 ### Changing font size / weight
 
-All text will have a class, such as `h1`, `p-normal' etc. You can change these classes to adjust the font size and weight. Each block will have a red box above it, which shows the current class and any associated heading & text elements.
+All text will have a class, such as `h1`, `p-normal` etc. You can change these classes to adjust the font size and weight. Each block will have a red box above it, which shows the current class and any associated heading & text elements.
 
-To copy the styles of, for example, an h2 heading, you would just replace the value inside the class. So, if your block shows
+To copy the styles of, for example, a h2 heading, you would just replace the value inside the class. So, if your block shows
 
 ```
 <h1 class="h1">Lorem ipsum dolor sit amet consectetur</h1>
@@ -56,7 +56,7 @@ but you want it to have smaller heading, say `h2`, you would replace the h1 with
 <h1 class="h2">Lorem ipsum dolor sit amet consectetur</h1>
 ```
 
-The same applied for paragraph text. You have 2 options, `p-normal` and `p-bold` - swap these out as required.
+The same applies for paragraph text. You have 2 options, `p-normal` and `p-bold` - swap these out as required.
 
 ### Adjusting column widths.
 
@@ -70,16 +70,13 @@ You can adjust the width of each column by changing the number to any value from
 
 When dealing with multi column blocks, they can have images or text inside.
 
-Just swap out the html as you need. So long as you keep these sections intact
+Just swap out the html as you need. So long as you keep these sections intact, you can choose to put text or images inside of them.
 
 ```
 <div class="w60">
 
 </div>
 ```
-
-you can choose to put text or images inside of them.
-
 
 ### Have more questions?
 Ask me :smiley:
