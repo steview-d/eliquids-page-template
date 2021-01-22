@@ -4,6 +4,7 @@ body {
 }
 
 $black: #000000;
+$white: #FFFFFF;
 
 .custom-html {
   width: 1120px;
@@ -213,6 +214,8 @@ $black: #000000;
     color: #1647b1;
     border: 1px solid #3363ca;
     padding: 5px 10px;
+    min-width: 85px;
+    text-align: center;
     font-size: 14px;
     line-height: 14px;
     margin-bottom: 10px;
@@ -230,3 +233,4 @@ $black: #000000;
   margin-bottom: 30px;
   cursor: pointer;
 }
+
