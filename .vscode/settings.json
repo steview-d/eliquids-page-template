@@ -1,0 +1,21 @@
+{
+    // Live Sass Compiler
+    "liveSassCompile.settings.formats": [
+        // minified
+        {
+            "format": "compressed",
+            "extensionName": ".min.css",
+            "savePath": "/"
+        }
+    ],
+    "liveSassCompile.settings.autoprefix": [
+        "last 2 versions"
+    ],
+    "liveSassCompile.settings.excludeList": [
+        "**/node_modules/**",
+        ".vscode/**",
+        "static/scss/libs/**",
+        "assets/**"
+    ],
+    "liveSassCompile.settings.generateMap": false,
+}
